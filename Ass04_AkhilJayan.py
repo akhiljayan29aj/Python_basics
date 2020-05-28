@@ -1,3 +1,4 @@
+#Q1. Print out Prime no. in one column and Composite no. in the other
 c=0
 p=[]
 co=[]
