@@ -1,4 +1,4 @@
-#Q1
+#Q1. Factorial using while loop only
 i=int(input("Your Number: "))
 j = 1
 while i>1 :
