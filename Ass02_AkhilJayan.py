@@ -1,5 +1,5 @@
 ## Assignment 2
-#Q1
+#Q1. Find the coulomb force between Q1 and Q2 which are "r" distance apart
 q1 = float(input("Charge 1: "))
 q2 = float(input("Charge 2: "))
 r = float(input("Distance between them: "))
